@@ -19,7 +19,7 @@ I'm a MERN Stack Web Developer with expertise in MongoDB, Express.js, React.js, 
 
 ---
 
-###  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/tech.gif" width="30" height="20" /> Tech and Tools
+###  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/tech.gif" width="40" height="40" /> Tech and Tools
 
 <div align="left">
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/javascript.gif" width="30"> &nbsp; &nbsp; 
