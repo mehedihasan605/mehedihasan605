@@ -33,3 +33,13 @@ I'm a MERN Stack Web Developer with expertise in MongoDB, Express.js, React.js, 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/css.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/git.gif" width="45"> &nbsp; &nbsp; 
 </div>
+
+
+#
+
+### <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/skills.gif" alt="" width="30" height="20" /> Used Skills
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan605&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
