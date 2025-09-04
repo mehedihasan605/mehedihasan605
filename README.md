@@ -8,7 +8,7 @@ class Developer {
 }
 
 ```
- **`Front-End Developer | Mern Stack Enthusiast`**
+ **`Full-Stack Developer | Mern Stack Enthusiast`**
 
 I'm a MERN Stack Web Developer with expertise in MongoDB, Express.js, React.js, and Node.js. Currently, I'm studying Computer Science & Technology. I enjoy building responsive and user friendly applications and exploring new technologies to enhance my development workflow.
 
