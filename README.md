@@ -22,13 +22,14 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 ###  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/tech.gif" width="40" height="40" /> Tech and Tools
 
 <div align="left">
- <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/javascript.gif" width="30"> &nbsp; &nbsp; 
-<!--  <img src="https://github.com/mehedihasa605/mehedihasa605/blob/main/assets/typescript.png" width="25"> &nbsp; &nbsp; -->
+ <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/javascript.png" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/typescript.png" width="30"> &nbsp; &nbsp;
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/react.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/node.gif" width="30"> &nbsp; &nbsp; 
-<!--  <img src="https://github.com/mehedihasa605/mehedihasa605/blob/main/assets/express.gif" width="30"> &nbsp; &nbsp;  -->
-<!--  <img src="https://github.com/mehedihasa605/mehedihasa605/blob/main/assets/nextjs.svg" width="30px"/> &nbsp; &nbsp;  -->
+<!--  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/express.png" width="30"> &nbsp; &nbsp;  -->
+ <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/nest.svg" width="30px"/> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/mongodb.gif" width="30"> &nbsp; &nbsp; 
+    <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/postgresql.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/html.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/css.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/git.gif" width="45"> &nbsp; &nbsp; 
