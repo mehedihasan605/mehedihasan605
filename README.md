@@ -44,5 +44,10 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan605&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/Connect.png" width="30" height="30"> Let's Connect 
 
+ <div>
+  <a href="https://www.linkedin.com" target="blank"><img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/linkedin.gif" width="50"></a>
+  <a href="https://discord.com/channels/mehedihasan605" target="blank"><img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/discord.gif" width="50"></a>
+ </div>
 
