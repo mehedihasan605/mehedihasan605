@@ -5,7 +5,14 @@ class Developer {
         this.role = "WEB Developer";
         this.language_spoken = ["bn_BD", "en_US"];
     }
+
+    introduce() {
+        console.log(`Hi, I'm ${this.name}, a ${this.role}.`);
+    }
 }
+
+const dev = new Developer();
+dev.introduce();
 
 ```
  **`Full-Stack Developer | Mern Stack Enthusiast`**
