@@ -29,10 +29,11 @@ I'm a Full Stack Web Developer with expertise in Javascript, Typescript, React.j
 <!--  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/express.png" width="30"> &nbsp; &nbsp;  -->
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/nest.svg" width="30"/> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/mongodb.gif" width="30"> &nbsp; &nbsp; 
-    <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/postgresql.png" width="30"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/postgresql.png" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/html.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/css.gif" width="30"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/git.gif" width="45"> &nbsp; &nbsp; 
+ <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/Prisma.svg" width="20"> &nbsp; &nbsp; 
  <img src="https://github.com/mehedihasan605/mehedihasan605/blob/main/assets/docker.svg" width="30">
 </div>
 
